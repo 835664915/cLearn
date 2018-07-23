@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  布尔类型.cpp
+c:\users\zs\desktop\zs\clearn\c-learn\布尔类型\布尔类型.cpp(16): warning C4305: “=”: 从“int”到“bool”截断
+  布尔类型.vcxproj -> C:\Users\zs\Desktop\zs\CLearn\c-learn\Debug\布尔类型.exe

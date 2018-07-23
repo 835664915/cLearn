@@ -1,0 +1,6 @@
+﻿  整型.cpp
+c:\users\zs\desktop\zs\clearn\c-learn\整型\整型.cpp(13): warning C4305: “初始化”: 从“__int64”到“int”截断
+c:\users\zs\desktop\zs\clearn\c-learn\整型\整型.cpp(13): warning C4309: “初始化”: 截断常量值
+c:\users\zs\desktop\zs\clearn\c-learn\整型\整型.cpp(19): warning C4305: “初始化”: 从“__int64”到“unsigned int”截断
+c:\users\zs\desktop\zs\clearn\c-learn\整型\整型.cpp(19): warning C4309: “初始化”: 截断常量值
+  整型.vcxproj -> C:\Users\zs\Desktop\zs\CLearn\c-learn\Debug\整型.exe
